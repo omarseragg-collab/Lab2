@@ -1,0 +1,59 @@
+
+body {
+    margin: 0;
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #222;
+}
+
+header, footer {
+    background-color: #222;
+    color: white;
+    padding: 20px;
+}
+
+header a {
+    color: white;
+    margin: 10px;
+}
+
+section {
+    padding: 60px 20px;
+}
+
+#about p {
+    width: 60%;
+    margin: 20px auto;
+    line-height: 1.6;
+}
+
+.project {
+    display: inline-block;
+    width: 190px;
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: left;
+}
+
+input, textarea {
+    width: 280px;
+    padding: 10px;
+    margin: 7px;
+    border: 1px solid #ddd;
+}
+
+textarea {
+    height: 90px;
+}
+
+button {
+    background-color: #222;
+    color: white;
+    width: 300px;
+    padding: 12px;
+    border: none;
+}
